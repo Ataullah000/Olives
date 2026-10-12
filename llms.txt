@@ -1,0 +1,29 @@
+# Md Ataullah Al Mahmud Alif
+# https://ataullah000.github.io/ataullah-portfolio/
+
+> Personal portfolio of Md Ataullah Al Mahmud Alif (Alif) — learner, builder, and aspiring innovator from Bangladesh focused on AI, cybersecurity, web development, and meaningful technology.
+
+## Site
+- Home: / or /index.html
+- About: /about.html
+- Vision: /vision.html
+- Projects: /projects.html
+- Skills: /skills.html
+- Journey: /journey.html
+- Certificates: /certificates.html
+- Contact: /contact.html
+
+## Projects
+- NAVORA: AI-powered digital workspace for learning, coding, research, and intelligent assistance (completed)
+- JHALORA: Food ordering website with WhatsApp checkout and chat assistant for a local business (completed)
+- CypherEnclave: Privacy-focused AI workspace for writing, research, coding, and document analysis (completed)
+- Research preprint: Artificial Intelligence and Human Perception (SSRN)
+- Digital Universe portfolio: this site (in progress)
+
+## Contact
+- Email: ataullahalif99@gmail.com
+- WhatsApp: https://wa.me/8801405949383
+- LinkedIn, YouTube, X, Instagram, Facebook: see /contact.html
+
+## Languages
+Bengali (native), English, Hindi, Urdu (professional), Japanese (basic)
